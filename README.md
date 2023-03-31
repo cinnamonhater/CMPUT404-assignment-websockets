@@ -59,3 +59,7 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+Some code snippets taken from:
+https://github.com/abramhindle/WebSocketsExamples/blob/master/broadcaster.py
+https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/static/chat.html
